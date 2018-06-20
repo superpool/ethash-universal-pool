@@ -16,6 +16,11 @@ Configuration
 - Configuration is actually simple, just read it twice and think twice before changing defaults.
 - Dev fee 1.5% of pool fee.
 
+Proxies
+
+- [Ether-Proxy](https://github.com/sammy007/ether-proxy) HTTP proxy with web interface
+- [Stratum Proxy](https://github.com/Atrides/eth-proxy) for Ethereum
+
 Dependencies:
 - Ubuntu 16.04 LTS
 - Redis-server
