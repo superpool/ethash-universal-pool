@@ -18,6 +18,21 @@ Features
 - Detailed logging
 - Support Nicehash, MiningRigRentails
 
+JSON API
+ API is unified on all our pool's (
+ [Ethash pool](https://github.com/superpool/ethash-universal-pool)
+ [Bitcoincore pool](https://github.com/superpool/bitcoincore-universal-pool)
+ [Equihash pool](https://github.com/superpool/equihash-universal-pool)
+ [Cryptonote pool](https://github.com/superpool/cryptonote-universal-pool)
+ )
+ - /health
+ - /stats
+ - /live_stats
+ - /stats_address
+ - /get_payments
+ - /get_blocks
+ - /get_payment
+
 Configuration
 - Configuration is actually simple, just read it twice and think twice before changing defaults.
 - One instance one coin
