@@ -1,0 +1,6 @@
+{
+  "name": "musicoin",
+  "symbol": "music",
+  "algorithm": "ethash",
+  "blockReward":25000000000000000000
+}

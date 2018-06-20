@@ -1,0 +1,6 @@
+{
+  "name": "ethereum-classic",
+  "symbol": "etc",
+  "algorithm": "ethash",
+  "blockReward":4000000000000000000
+}

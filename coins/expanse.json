@@ -1,0 +1,6 @@
+{
+  "name": "expanse",
+  "symbol": "exp",
+  "algorithm": "ethash",
+  "blockReward":5000000000000000000
+}

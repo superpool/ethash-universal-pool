@@ -1,0 +1,6 @@
+{
+  "name": "ethereum",
+  "symbol": "eth",
+  "algorithm": "ethash",
+  "blockReward":3000000000000000000
+}

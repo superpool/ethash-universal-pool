@@ -1,0 +1,6 @@
+{
+  "name": "ellaism",
+  "symbol": "ella",
+  "algorithm": "ethash",
+  "blockReward":5000000000000000000
+}
